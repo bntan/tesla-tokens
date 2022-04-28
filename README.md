@@ -5,6 +5,7 @@ The script does not require your TESLA credentials. It will redirect you to TESL
 
 ## Prerequisites
  
+- Basic python and pip knowledge
 - Python 3
 
 ## Download dependencies
